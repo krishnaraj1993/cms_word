@@ -27,7 +27,7 @@
 
             <div class="page-header">
                 <div class="page-title">
-                    <h1>{{ __('velocity::app.admin.meta-data.title') }}</h1>
+                    <h1>Ikksa meta data</h1>
                 </div>
 
                 <input type="hidden" name="locale" value="{{ $locale }}" />
